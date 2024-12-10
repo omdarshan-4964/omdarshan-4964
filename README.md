@@ -1,4 +1,4 @@
-# Hello, I'm Omdarshan Shindepatil 👋
+# Hello, I'm Omdarshan👋
 
 As a **B.Tech student in Computer Science and Business Systems (CSBS)**, I am a passionate **MERN Stack Developer** and aspiring **Cybersecurity Analyst**. I strive to build scalable, secure, and innovative solutions to solve real-world problems. With experience in **full-stack development** and a strong foundation in programming, I am always eager to learn and grow.
 

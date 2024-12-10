@@ -18,10 +18,9 @@ As a **B.Tech student in Computer Science and Business Systems (CSBS)**, I am a 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omdarshanshindepatil)  
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omdarshanpatil@gmail.com)  
 
----
 
 ## 📈 GitHub Stats  
 ![Omdarshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omdarshan-4964&show_icons=true&theme=radical)  

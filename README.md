@@ -3,6 +3,7 @@
 As a **B.Tech student in Computer Science and Business Systems (CSBS)**, I am a passionate **MERN Stack Developer** and aspiring **Cybersecurity Analyst**. I strive to build scalable, secure, and innovative solutions to solve real-world problems. With experience in **full-stack development** and a strong foundation in programming, I am always eager to learn and grow.
 
 ## 🌟 What Makes Me Unique  
+- **Secretary at Pioneer 2025(ISTE)** 
 - **Technical Co-Head at Pioneer 2024 (ISTE)**: Led and managed technical aspects like website management, QR generation, poster design, and more.  
 - **Proficient in Programming**: Skilled in **C, C++, Java, and JavaScript**, with a strong focus on object-oriented programming and problem-solving.  
 - **Cybersecurity Enthusiast**: Currently pursuing the **Google Cybersecurity Professional Certificate** to deepen my knowledge of secure systems.  

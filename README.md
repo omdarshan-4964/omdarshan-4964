@@ -41,19 +41,18 @@ const omdarshan = {
 
 ## 💼 Featured Projects
 
-### 🤖 [AI-Workflow Builder - Intelligent Automation Platform](https://github.com/omdarshan-4964/AI-Workflow-Builder)
-> **No-code AI workflow automation for everyone**
+### 🧠 [AI Workflow Builder (Weavy.ai Clone)](https://github.com/omdarshan-4964/AI-Workflow-Builder)
+> **Agentic AI Orchestration Engine**
 
-Developed a visual workflow builder enabling users to create AI-powered automation without coding.
+Architected a concurrent AI execution engine using a "Fan-Out" architecture to trigger multiple AI agents from a single prompt.
 
-**Tech:** React.js • Node.js • MongoDB • OpenAI API • WebSockets • React Flow
+**Tech:** Next.js 16 • Gemini 1.5 Flash • React Flow • Zustand • MongoDB • Tailwind 4
 
 **Highlights:**
-- 🎨 Drag-and-drop interface for building complex AI workflows
-- 🧠 Integration with multiple AI models (GPT, Claude, Custom Models)
-- ⚡ Real-time workflow execution with live status updates
-- 🔌 RESTful API support for external integrations and webhooks
-- 📊 Analytics dashboard for monitoring workflow performance
+- ⚡ **Parallel Execution:** Orchestrates multi-agent workflows with async prompt chaining
+- 🕸️ **Visual Editor:** Drag-and-drop DAG (Directed Acyclic Graph) builder using React Flow
+- 💾 **State Persistence:** Enterprise-grade Undo/Redo history and graph serialization
+- 🚀 **Agentic AI:** Integrates multimodal Gemini models for complex reasoning tasks
 
 ---
 
@@ -65,28 +64,25 @@ Built a real-time collaborative code editor enabling seamless multi-user develop
 **Tech:** Next.js • TypeScript • Socket.IO • Docker • Judge0 API • Google Gemini API • Vercel • Render
 
 **Highlights:**
-- ⚡ WebSocket-based real-time synchronization across multiple users
-- 🤖 AI-powered code suggestions and debugging using Google Gemini
-- 🚀 Multi-language code execution engine with Judge0 integration
-- 🏗️ Microservices architecture with containerized deployment
+- ⚡ **WebSocket Sync:** Real-time character-by-character synchronization across multiple users
+- 🤖 **AI Copilot:** Code suggestions and debugging using Google Gemini
+- 🚀 **Remote Execution:** Multi-language code execution engine with Judge0 integration
+- 🏗️ **Microservices:** Decoupled architecture with containerized deployment
 
 ---
 
-### 🛡️ [SecureAuth - Advanced Authentication System](https://github.com/omdarshan-4964/SecureAuthGateway)
-> **Enterprise-grade authentication with zero-compromise security**
+### 🛡️ [SecureAuth Gateway](https://github.com/omdarshan-4964/SecureAuthGateway)
+> **Enterprise-Grade Identity Management System**
 
-Built a comprehensive authentication platform with multiple security layers and modern auth flows.
+A robust authentication system focused on security best practices and granular permission management.
 
-**Tech:** Node.js • Express.js • MongoDB • JWT • Bcrypt • OAuth 2.0 • Nodemailer
+**Tech:** TypeScript • Node.js • Express.js • MongoDB • JWT • Docker
 
 **Highlights:**
-- 🔒 Multi-factor authentication with email verification and OTP
-- 🛡️ Secure password hashing with bcrypt and JWT token management
-- 🌐 OAuth 2.0 integration for social login (Google, GitHub)
-- 🔑 Password reset flow with secure token-based verification
-- 📧 Email service integration for account verification and notifications
-
----
+- 🔐 **Dual-Token Architecture:** Implemented Access/Refresh token rotation with HttpOnly cookies
+- 👮 **RBAC System:** Granular permission management (User, Merchant, Admin)
+- 📝 **Audit Logging:** Comprehensive tracking of security events and anomalies
+- 🐳 **Containerized:** Fully dockerized backend for consistent deployment
 
 ## 🛠️ Tech Stack & Tools
 

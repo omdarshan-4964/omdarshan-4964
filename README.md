@@ -2,9 +2,9 @@
 
 # 👋 Hey, I'm Omdarshan Shinde Patil
 
-### Full-Stack Developer | Cloud Enthusiast | Building Scalable Solutions
+### Next.js & AI Engineer | Building Agentic AI Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;DevOps+%26+Cloud+Explorer;Building+Real-Time+Systems;Open+to+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Next.js+%26+AI+Engineer;Building+Agentic+AI+Systems;DevOps+%26+Cloud+Enthusiast;Open+to+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-omdarshanpatil.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omdarshanshindepatil)
@@ -23,7 +23,7 @@ I'm a final-year B.Tech student specializing in **Computer Science and Business 
 const omdarshan = {
     location: "Pune, Maharashtra 🇮🇳",
     education: "B.Tech in CSBS (2026) | GPA: 7.69/10",
-    currentFocus: ["DevOps & Cloud", "System Design", "AWS & Kubernetes"],
+    currentFocus: ["Agentic AI", "Next.js 16", "Distributed Systems"],
     lookingFor: "Software Engineering Internship | Full-Stack Developer Role",
     funFact: "When I'm not coding, I'm either singing 🎤, watching cricket 🏏, or exploring movies 🎬"
 };
@@ -41,6 +41,22 @@ const omdarshan = {
 
 ## 💼 Featured Projects
 
+### 🤖 [AI-Workflow Builder - Intelligent Automation Platform](https://github.com/omdarshan-4964/AI-Workflow-Builder)
+> **No-code AI workflow automation for everyone**
+
+Developed a visual workflow builder enabling users to create AI-powered automation without coding.
+
+**Tech:** React.js • Node.js • MongoDB • OpenAI API • WebSockets • React Flow
+
+**Highlights:**
+- 🎨 Drag-and-drop interface for building complex AI workflows
+- 🧠 Integration with multiple AI models (GPT, Claude, Custom Models)
+- ⚡ Real-time workflow execution with live status updates
+- 🔌 RESTful API support for external integrations and webhooks
+- 📊 Analytics dashboard for monitoring workflow performance
+
+---
+
 ### 🔥 [CodeStream - Real-Time Collaborative IDE](https://github.com/omdarshan-4964/CodeStream)
 > **Live collaboration meets intelligent coding**
 
@@ -56,33 +72,19 @@ Built a real-time collaborative code editor enabling seamless multi-user develop
 
 ---
 
-### 📅 [Evento - College Event Management Platform](https://github.com/omdarshan-4964/Evento-College_Events_Management_System)
-> **Streamlining campus events from creation to execution**
+### 🛡️ [SecureAuth - Advanced Authentication System](https://github.com/omdarshan-4964/SecureAuthGateway)
+> **Enterprise-grade authentication with zero-compromise security**
 
-Comprehensive MERN stack platform for managing college events with role-based access control.
+Built a comprehensive authentication platform with multiple security layers and modern auth flows.
 
-**Tech:** MongoDB • Express.js • React.js • Node.js • JWT • RBAC
-
-**Highlights:**
-- 🔐 Secure authentication with JWT and role-based permissions
-- 📊 Dynamic admin dashboards for event approvals and analytics
-- 🎯 Smart conflict detection algorithm preventing venue double-booking
-- 👥 Complete event lifecycle management with student registration
-
----
-
-### 🔗 [DAiMMP - Decentralized AI Model Marketplace](https://github.com/omdarshan-4964/DAiMMP)
-> **Blockchain-powered AI model sharing with transparency**
-
-Contributed to backend development for a decentralized platform enabling secure AI model transactions.
-
-**Tech:** Node.js • RESTful APIs • Ethereum Blockchain • AI/NLP Integration
+**Tech:** Node.js • Express.js • MongoDB • JWT • Bcrypt • OAuth 2.0 • Nodemailer
 
 **Highlights:**
-- 🛡️ Blockchain integration for secure model transactions
-- 🔌 RESTful API architecture for authentication and model management
-- 🤖 AI chatbot integration for interactive model exploration
-- ⛓️ Smart contract implementation for transaction validation
+- 🔒 Multi-factor authentication with email verification and OTP
+- 🛡️ Secure password hashing with bcrypt and JWT token management
+- 🌐 OAuth 2.0 integration for social login (Google, GitHub)
+- 🔑 Password reset flow with secure token-based verification
+- 📧 Email service integration for account verification and notifications
 
 ---
 
@@ -102,6 +104,7 @@ Contributed to backend development for a decentralized platform enabling secure 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)

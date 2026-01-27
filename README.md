@@ -126,19 +126,23 @@ A robust authentication system focused on security best practices and granular p
 ---
 
 ## 📊 GitHub Analytics
-<!--
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omdarshan-4964&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omdarshan-4964&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
-</div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=omdarshan-4964&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
-</div>
--->
+
+### 📈 Overall Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omdarshan-4964&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&cache_seconds=1800" alt="GitHub Stats" />
+    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omdarshan-4964&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&cache_seconds=1800" alt="Top Languages" />
+</p>
+
+## 📈 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omdarshan-4964&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9" alt="Contribution Graph" />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omdarshan-4964&theme=tokyonight)
+
 </div>
 
 ---
@@ -155,16 +159,6 @@ A robust authentication system focused on security best practices and granular p
 
 **🏅 PBL Day Competition Winner (Semester VI) & 1st Runner-Up (Semester III)**
 - Recognized for innovative full-stack solutions and exceptional problem-solving skills
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omdarshan-4964&theme=tokyonight)
-
-</div>
 
 ---
 
